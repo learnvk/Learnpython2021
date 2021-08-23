@@ -1,3 +1,5 @@
+# learn something new.
+
 this is just for recording. 
 
 I want to learn python since 2020, but at that time i barely have time. Or just not the good timing.
